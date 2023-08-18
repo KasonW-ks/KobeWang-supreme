@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋,I'm WangKS.
 
-<!--
-**KobeWang-supreme/KobeWang-supreme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on something cool.
+- 🌱 I’m currently a year4 student from HKU CS department and learning Everything I like.
+- 📫 How to reach me: u3577179@connect.hku.hk
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://github-readme-stats.vercel.app/api?username=KobeWang-supreme&show_icons=true&theme=transparent)
+
+You are my ![Visitor Count](https://profile-counter.glitch.me/KobeWang-supreme/count.svg) visitor,Thank You!:kissing_heart::kissing_heart:
+
+
+
