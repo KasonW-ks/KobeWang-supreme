@@ -1,7 +1,7 @@
 ### Hi there 👋,I'm WangKS.
 
 - 🔭 I’m currently working on something cool.
-- 🌱 I’m currently a year4 student from Duke ECE department and learning Everything I like.
+- 🌱 I’m currently a year1 master student from Duke ECE department and learning Everything I like.
 - 📫 How to reach me: johnwangks1@gmail.com
 
 
